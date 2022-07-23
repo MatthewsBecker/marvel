@@ -91,7 +91,7 @@ main{
 @media (max-width:768px) {
     .content-container{
         justify-content: flex-end;
-        margin-bottom: 50px;
+        margin-bottom: 150px;
     }
     .content-container h1{
         font-size: 4rem;
