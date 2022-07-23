@@ -92,11 +92,11 @@ main{
     display: flex;
     flex-wrap: wrap;
     width: 650px;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .Vingadores{
-    height: 60px;
+    height: 50px;
     width: 300px;
     border-radius: 10px;
     background-color: #FF0000;
@@ -107,11 +107,11 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .capitao_america{
-    height: 60px;
+    height: 50px;
     width: 300px;
     border-radius: 10px;
     background-color: #003397;
@@ -122,11 +122,11 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .doutor_estranho{
-    height: 60px;
+    height: 50px;
     width: 300px;
     border-radius: 10px;
     background-color: #FF0000;
@@ -137,11 +137,11 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .pantera_negra{
-    height: 60px;
+    height: 50px;
     width: 300px;
     border-radius: 10px;
     background-color: #646262;
@@ -152,11 +152,11 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .homemdeferro{
-    height: 60px;
+    height: 50px;
     width: 300px;
     border-radius: 10px;
     background-color: #8E3737;
@@ -167,11 +167,11 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .thor{
-    height: 60px;
+    height: 50px;
     width: 300px;
     border-radius: 10px;
     background-color: #434738;
@@ -182,11 +182,11 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .homem_aranha{
-    height: 60px;
+    height: 50px;
     width: 300px;
     border-radius: 10px;
     background-color: #003397;
@@ -197,11 +197,11 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .hulk{
-    height: 60px;
+    height: 50px;
     width: 300px;
     border-radius: 10px;
     background-color: #628E37;
@@ -212,7 +212,7 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 @media (max-width:768px) {
