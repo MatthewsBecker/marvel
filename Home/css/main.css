@@ -242,6 +242,7 @@ main{
         flex-wrap: wrap;
         width: 350px;
         justify-content: start;
-        height: 700px;
+        height: 500px;
+        transform: translateY(-150px);
     }
 }
