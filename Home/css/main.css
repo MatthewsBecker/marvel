@@ -243,6 +243,6 @@ main{
         width: 350px;
         justify-content: start;
         height: 500px;
-        transform: translateY(-150px);
+        transform: translateY(-100px);
     }
 }
