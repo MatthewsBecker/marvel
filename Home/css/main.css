@@ -240,7 +240,8 @@ main{
     .grupos{
         display: flex;
         flex-wrap: wrap;
-        width: 400px;
+        width: 350px;
         justify-content: start;
+        height: 700px;
     }
 }
